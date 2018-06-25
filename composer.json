@@ -1,0 +1,16 @@
+{
+    "name": "sandrine/sandrinemvc",
+    "description": "sandrineMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sandrineframework",
+            "email": "sandrinemane@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
